@@ -1,0 +1,3 @@
+To install run npm install
+To run the program run npm run dev
+Go to .env file to update the variable with yours
